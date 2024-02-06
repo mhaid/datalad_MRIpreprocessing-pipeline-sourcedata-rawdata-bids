@@ -1,0 +1,6 @@
+[submodule "sourcedata/rawdata-dicom"]
+	path = sourcedata/rawdata-dicom
+	url = ../../../rawdata-dicom
+	datalad-id = c814741f-61d5-4a1a-8311-a241564773cd
+[submodule "sourcedata\\rawdata-dicom"]
+	datalad-url = ../rawdata-dicom
