@@ -1,0 +1,2 @@
+{('run{item:03d}', ('nii.gz',), None): ['7-MPRAGE',
+                                        '8-cmrr_mbep2d_mb3_bold_3x3x3mm_TR1000']}
