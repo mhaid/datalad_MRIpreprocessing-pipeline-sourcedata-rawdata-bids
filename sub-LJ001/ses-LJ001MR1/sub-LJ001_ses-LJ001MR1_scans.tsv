@@ -1,0 +1,3 @@
+filename	acq_time	operator	randstr
+anat/sub-LJ001_ses-LJ001MR1_acq-mprage_T1w.nii.gz	2018-10-17T15:14:23.125000	n/a	fabe52ba
+func/sub-LJ001_ses-LJ001MR1_task-judge_bold.nii.gz	2018-10-17T15:24:02.215000	n/a	237a6c6f
