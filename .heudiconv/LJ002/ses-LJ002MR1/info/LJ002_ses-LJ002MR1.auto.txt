@@ -1,0 +1,2 @@
+{('sub-{subject}/{session}/anat/sub-{subject}_{session}_acq-mprage_T1w', ('nii.gz',), None): ['2-MPRAGE'],
+ ('sub-{subject}/{session}/func/sub-{subject}_{session}_task-judge_bold', ('nii.gz',), None): ['3-cmrr_mbep2d_mb3_bold_3x3x3mm_TR1000']}
