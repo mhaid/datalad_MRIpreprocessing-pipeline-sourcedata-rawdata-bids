@@ -1,4 +1,4 @@
 [submodule "sourcedata/rawdata-dicom"]
 	path = sourcedata/rawdata-dicom
-	url = ../../../rawdata-dicom
+	url = https://github.com/mhaid/datalad_MRIpreprocessing-pipeline-sourcedata-rawdata-bids-sourcedata-rawdata-dicom.git
 	datalad-id = c814741f-61d5-4a1a-8311-a241564773cd
